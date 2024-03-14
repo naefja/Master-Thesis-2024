@@ -1,0 +1,19 @@
+Medium,1,2,3,4,5,6,7,8,9,10,11,12
+A,Negative Control,L-Arabinose,N-Acetyl-D-Glucosamine,D-Saccharic Acid,Succinic Acid,D-Galactose,L-Aspartic Acid,L-Proline,D-Alanine,D-Trehalose,D-Mannose,Dulcitol
+B,D-Serine,D-Sorbitol,Glycerol,L-Fucose,D-Glucoronic Acid,D-Gluconic Acid,"D,L-a-Glycerol-Phosphate",D-Xylose,L-Lactic Acid,Formic Acid,D-Mannitol,L-Glutamic Acid
+C,D-Glucose-6-Phosphate,D-Galactonic Acid-y-Lactone,"D,L-Malic Acid",D-Ribose,Tween 20,L-Rhamnose,D-Fructose,Acetic Acid,a-D-Glucose,Maltose,D-Melibiose,Thymidine
+D,L-Asparagine,D-Aspartic Acid,D-Glucosaminic Acid,"1,2-Propanediol",Tween 40,a-Keto-Glutaric Acid,a-Keto-Butyric Acid,a-Methyl-D-Galactoside,a-D-Lactose,Lactulose,Sucrose,Uridine
+E,L-Glutamine,m-Tartaric Acid,D-Glucose-1-Phosphate,D-Fructose-6-Phosphate,Tween 80,a-Hydroxy Glutaric Acid-y-Lactone,a-Hydroxy Butyric Acid,8-Methyl-D-Glucoside,Adonitol,Maltotriose,2-Deoxy Adenosine ,Adenosine 
+F,Glycyl-L-Aspartic Acid,Citric Acid,myo-Inositol ,D-Threonine ,Fumaric Acid,Bromo Succinic Acid,Propionic Acid,Mucic Acid,Glycolic Acid,Glyoxylic Acid,D-Cellobiose,Inosine
+G,Glycyl-L-Glutamic Acid,Tricarballylic Acid,L-Serine,L-Threonine,L-Alanine ,L-Alanyl-Glycine ,Acetoacetic Acid,N-Acetyl-b-D-Mannosamine,Mono Methyl Succinate,Methyl Pyruvate,D-Malic Acid,L-Malic Acid
+H,Glycyl-L-Proline,p-Hydroxy Phenyl Acetic Acid,m-Hydroxy Phenyl Acetic Acid,Tyramine ,D-Psicose,L-Lyxose,Glucuronamide,Pyruvic Acid ,L-Galactonic Acid-y-Lactone,D-Galacturonic Acid,Phenylethylamine,2-Aminoethanol
+,,,,,,,,,,,,
+Bacteria,1,2,3,4,5,6,7,8,9,10,11,12
+A,Blank,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+B,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+C,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+D,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+E,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+F,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+G,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
+H,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300,S. Tm SB300
